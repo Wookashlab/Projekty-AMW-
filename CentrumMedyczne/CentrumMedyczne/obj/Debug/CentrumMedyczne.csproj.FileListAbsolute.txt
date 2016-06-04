@@ -1,0 +1,32 @@
+E:\nauka\Programowanie\CentrumMedyczne\CentrumMedyczne\bin\Debug\CentrumMedyczne.exe.config
+E:\nauka\Programowanie\CentrumMedyczne\CentrumMedyczne\bin\Debug\CentrumMedyczne.exe
+E:\nauka\Programowanie\CentrumMedyczne\CentrumMedyczne\bin\Debug\CentrumMedyczne.pdb
+E:\nauka\Programowanie\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.csprojResolveAssemblyReference.cache
+E:\nauka\Programowanie\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.Properties.Resources.resources
+E:\nauka\Programowanie\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.csproj.GenerateResource.Cache
+E:\nauka\Programowanie\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.exe
+E:\nauka\Programowanie\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.pdb
+E:\nauka\Programowanie\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.Form1.resources
+E:\nauka\CentrumMedyczne\CentrumMedyczne\bin\Debug\CentrumMedyczne.exe.config
+E:\nauka\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.exe
+E:\nauka\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.pdb
+E:\nauka\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.csprojResolveAssemblyReference.cache
+E:\nauka\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.Form1.resources
+E:\nauka\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.Properties.Resources.resources
+E:\nauka\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.csproj.GenerateResource.Cache
+E:\nauka\CentrumMedyczne\CentrumMedyczne\bin\Debug\CentrumMedyczne.exe
+E:\nauka\CentrumMedyczne\CentrumMedyczne\bin\Debug\CentrumMedyczne.pdb
+E:\nauka\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.Form2.resources
+E:\nauka\W razie W\v3\CentrumMedyczne\CentrumMedyczne\bin\Debug\CentrumMedyczne.exe.config
+E:\nauka\W razie W\v3\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.exe
+E:\nauka\W razie W\v3\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.pdb
+E:\nauka\W razie W\v3\CentrumMedyczne\CentrumMedyczne\bin\Debug\CentrumMedyczne.exe
+E:\nauka\W razie W\v3\CentrumMedyczne\CentrumMedyczne\bin\Debug\CentrumMedyczne.pdb
+E:\nauka\W razie W\v3\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.csprojResolveAssemblyReference.cache
+E:\nauka\W razie W\v3\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.Form1.resources
+E:\nauka\W razie W\v3\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.Form2.resources
+E:\nauka\W razie W\v3\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.Properties.Resources.resources
+E:\nauka\W razie W\v3\CentrumMedyczne\CentrumMedyczne\obj\Debug\CentrumMedyczne.csproj.GenerateResource.Cache
+D:\Poczebne\Projekt\CentrumMedyczne- Visual Studio\CentrumMedyczne\bin\Debug\CentrumMedyczne.exe.config
+D:\Poczebne\Projekt\CentrumMedyczne- Visual Studio\CentrumMedyczne\obj\Debug\CentrumMedyczne.exe
+D:\Poczebne\Projekt\CentrumMedyczne- Visual Studio\CentrumMedyczne\obj\Debug\CentrumMedyczne.pdb
